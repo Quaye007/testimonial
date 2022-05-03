@@ -595,12 +595,18 @@ align-content: center;
 
 
 
+
+
+.sub-2{
+    align-items: center;
+
+    margin-top: -50px;
+
 }
 
 
 
-/*media quereies for smaller srceen*/
+}
 
-@media screen and (max-width:600px)
 
 
